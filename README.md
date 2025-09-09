@@ -13,7 +13,7 @@
 
 ## Галерея
 
- 
+ ![L](https://github.com/Antogrado/ConsoleApp2/blob/master/Screen.png?raw=true)
 
 
 ### Гайд 📚
@@ -25,6 +25,4 @@
 
 ## Как установить
 
-Скачиваете код и используете 
-
-## АА
+Скачиваете код и открываете его в Microsoft Visual Studio 2022 или Microsoft Visual Studio Code
